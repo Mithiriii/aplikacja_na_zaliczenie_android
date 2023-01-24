@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">apka_zali</string>
+    <string name="toastaaa">Go jest niesamowite :)</string>
+    <string name="author">Imie i nazwisko: Tomasz Nagrodzki \n\Wiek: 24\n\nemail: nagrodzkitom2@gmail.com\n\nHobby: Gra go</string>
+    <string name="go_game">Gra GO</string>
+    <string name="about_author">O autorze</string>
+    <string name="useful_link">Przydatne linki</string>
+    <string name="go_explain">Go to abstrakcyjna strategiczna gra planszowa dla dwóch graczy, w której celem jest otoczenie większego terytorium niż przeciwnik. Gra została wynaleziona w Chinach ponad 2500 lat temu i uważa się, że jest najstarszą grą planszową nieprzerwanie graną do dziś. Badanie z 2016 roku przeprowadzone przez 75 krajów członkowskich Międzynarodowej Federacji Go wykazało, że na świecie jest ponad 46 milionów ludzi, którzy wiedzą jak grać w Go i ponad 20 milionów obecnych graczy, z których większość mieszka w Azji Wschodniej.</string>
+    <string name="go_server"><a href="https://online-go.com/overview">Serwer do gry online</a></string>
+    <string name="first_step"><a href="https://kursgo.pl">Pierwsze kroki w Go</a></string>
+    <string name="egf"><a href="https://www.eurogofed.org">European Go Federation</a></string>
+
+</resources>
